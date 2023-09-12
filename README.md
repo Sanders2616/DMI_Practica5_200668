@@ -6,6 +6,6 @@
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo Movil Integral <br>
 200668_Sandra Aguilar Santos<br>
-Practica5:Aplicacion stateless.<br>
-Descripción:Aplicacion con cards<br>
+Practica5:Aplicacion stateless. <br>
+Descripción:Aplicacion con cards <br>
 Fecha entrega: 13 de septiembre del 2023
